@@ -38,7 +38,7 @@ def main():
 
     # File upload section
     file_type = st.sidebar.radio(
-        "Select File Type", ("PDF", "DOCX", "YouTube Video"))
+        "Select File Type", ("PDF", "DOCX", "YouTube Video (Progress ⌛️)"))
 
     uploaded_file = None
     video_url = None
