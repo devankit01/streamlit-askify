@@ -49,12 +49,7 @@ Before you begin, ensure you have the following installed:
    pip3 install -r requirements.txt
    ```
 
-4. **Set up your API keys:**
-
-   - Rename `.env.example` to `.env`.
-   - Add your OpenAI API key and any other necessary credentials.
-
-5. **Run the application:**
+4. **Run the application:**
 
    ```bash
    python app.py
