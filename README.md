@@ -52,7 +52,7 @@ Before you begin, ensure you have the following installed:
 4. **Run the application:**
 
    ```bash
-   python app.py
+   python3 app.py
    ```
 
 ## Usage 🛠️
