@@ -3,7 +3,7 @@ from langchain.callbacks import get_openai_callback
 from langchain.chains.question_answering import load_qa_chain
 
 
-OpenAIModel = "gpt-3.5-turbo-16k"
+OpenAIModel = "gpt-4o-mini"
 
 
 def summarizer(knowledge_base, file_type, summary_length):
